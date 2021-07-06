@@ -1,0 +1,140 @@
+.head-menu{
+    list-style-type:none;
+    font-size: 30px;
+}
+.orange-color{
+    color: orange;
+}
+h1{
+    font-size: 35px;
+}
+p{
+    text-align: left;
+}
+.home{
+    padding-left: 10px;
+    float: left;
+}
+.about{
+    padding-left: 20px;
+    float: left;
+}
+.contact{
+    padding-left: 20px;
+    float: left;
+}
+.log-in{
+    padding-right: 10px;
+    float: right;
+    list-style-type:none;
+    font-size: 25px;
+}
+.sing-up{
+    padding-left: 50px;
+    float: right;
+    list-style-type:none;
+    font-size: 25px;
+}
+#up{
+    text-decoration: none;
+    background-image: none;
+    padding: 10px 20px;
+    color: black;
+    border-radius: 5px;
+}
+#in{
+    text-decoration: none;
+    background-image: linear-gradient(green, green);
+    padding: 10px 20px;
+    color: wheat;
+    border-radius: 30px;
+}
+.flexable-continer{
+    display: flex;
+    margin-bottom: 100px;
+    padding-top: 40px;
+}
+.half-width{
+    width: 50%;
+    padding: 2px;
+    text-align:left;
+}
+.half-width img{
+    width: 80%;
+}
+.batton{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    color: wheat;
+    font-weight: 700px;
+    border-radius: 5px;
+    align-items:center;
+}
+#about-me{
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+}
+.parson-image{
+    height: 70.5%;
+    padding-left: 10px;
+}
+.detils{
+    padding-top: 7%;
+}
+.recipies{
+    text-align: center;
+}
+.amazing-rec{
+    width: 30%;
+    float: left;
+    padding: 20px;
+}
+.our-love{
+    width: 30%;
+    float:left;
+    padding: 20px;
+}
+.easy-this{
+    width: 30%;
+    float: left;
+    padding: 20px;
+}
+.amazing-pic{
+    width: 60%;
+}
+.our-pic{
+    width: 60%;
+}
+.easy-pic{
+    width: 60%;
+}
+.youtube{
+    float: left;
+    padding: 110px;
+}
+.instgrame{
+    float: left;
+    padding: 110px;
+}
+.likes{
+    float: left;
+    padding: 110px;
+}
+.food{
+    color: white;
+}
+.food-item{
+    box-shadow: 5px 5px 20px;
+    width: 25%;
+    margin-left: 4%;
+}
+footer{
+    text-align: center;
+}
+.footer-pera{
+    text-align: center;
+}
+.follo-head{
+    text-align: center;
+}
